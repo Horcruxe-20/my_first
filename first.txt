@@ -1,2 +1,3 @@
 Adding the first file to the repository.
 Adding the second line in this file through the branch_1
+Adding the third line in this file through the branch_2
